@@ -1,4 +1,4 @@
-procedure DFS-interactive(graph, V, G):
+procedure DFS-interactive(V, G):
     S = new Stack()
     S.push(V)
     explored = new Set()
